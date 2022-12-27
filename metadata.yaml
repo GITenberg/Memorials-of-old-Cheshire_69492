@@ -1,0 +1,40 @@
+_repo: Memorials-of-old-Cheshire_69492
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barber, Edward
+    birthdate: 1841
+    deathdate: 1914
+    gutenberg_agent_id: '55257'
+    url: http://www.gutenberg.org/2009/agents/55257
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Barber_(priest)
+  - agent_name: Ditchfield, P. H. (Peter Hampson)
+    aliases:
+    - Ditchfield, Peter Hampson
+    - Ditchfield, Peter H. (Peter Hampson)
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '2767'
+    url: http://www.gutenberg.org/2009/agents/2767
+    wikipedia: https://en.wikipedia.org/wiki/Peter_Ditchfield
+description: ''
+gutenberg_issued: '2022-12-07'
+identifiers:
+  gutenberg: '69492'
+language: en
+pgterms:marc904: https://archive.org/details/memorialsofoldch00barbuoft/page/n9
+pgterms:marc905: 20190909082250barber
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Tim Lindell, Neil Mercer, Music transcribed by Linda Cantoni and
+  the Online Distributed Proofreading Team at https://www.pgdp.net (This file was
+  produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: 'United Kingdom: George Allen & Sons,1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memorials of old Cheshire
+url: http://www.gutenberg.org/ebooks/69492
